@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
 
     botao:{
       backgroundColor: '#ff4655',
-      color: 'black',
+      color: 'white',
       padding: 10,
       borderRadius: 6,
       borderColor: 'black',
